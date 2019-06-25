@@ -1,8 +1,7 @@
-bottle==0.12.16
-certifi==2019.3.9
-chardet==3.0.4
-heroku==0.1.4
-idna==2.8
-python-dateutil==1.5
-requests==2.22.0
-urllib3==1.25.3
+bottle==0.12.17
+get==2019.4.13
+post==2019.4.13
+public==2019.4.13
+query-string==2019.4.13
+request==2019.4.13
+virtualenv==16.6.1
