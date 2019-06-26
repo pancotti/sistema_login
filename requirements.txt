@@ -1,7 +1,2 @@
-bottle==0.12.17
-get==2019.4.13
-post==2019.4.13
-public==2019.4.13
-query-string==2019.4.13
-request==2019.4.13
-virtualenv==16.6.1
+bottle==0.12.10
+SQLAlchemy==1.1.3
