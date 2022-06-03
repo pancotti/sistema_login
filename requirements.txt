@@ -1,5 +1,5 @@
 bcrypt==3.1.7
-bottle==0.12.17
+bottle==0.12.20
 bottle-session==0.9
 bottle-sqlalchemy==0.4.3
 cffi==1.12.3
